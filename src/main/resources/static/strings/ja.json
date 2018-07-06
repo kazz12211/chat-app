@@ -1,0 +1,18 @@
+{
+	"Home": {
+		"Login": "ログイン",
+		"Logout": "ログアウト",
+		"SocialLogin": "ソーシャルログイン"
+	},
+	"Chat": {
+		"joined": "が参加しました",
+		"left": "が退出しました",
+		"Send": "送信",
+		"TypeAMessage": "メッセージを入力..."
+	},
+	"Error": {
+		"Close": "閉じる",
+		"ConnectionError": "サーバーへの接続に失敗しました。ページをリロードしてもう一度試してください。",
+		"SystemError": "システムエラー"
+	}
+}

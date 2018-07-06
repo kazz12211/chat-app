@@ -1,0 +1,18 @@
+{
+	"Home": {
+		"Login": "Login",
+		"Logout": "Logout",
+		"SocialLogin": "Social Login"
+	},
+	"Chat": {
+		"joined": "joined.",
+		"left": "left.",
+		"Send": "Send",
+		"TypeAMessage": "Type a message..."
+	},
+	"Error": {
+		"Close": "Close",
+		"ConnectionError": "Could not connect to WebSocket server. Try after refresh this page.",
+		"SystemError": "System Error"
+	}
+}

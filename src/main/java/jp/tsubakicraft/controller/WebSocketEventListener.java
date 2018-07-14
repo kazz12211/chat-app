@@ -12,7 +12,6 @@ import org.springframework.stereotype.Component;
 import org.springframework.web.socket.messaging.SessionConnectedEvent;
 import org.springframework.web.socket.messaging.SessionDisconnectEvent;
 
-import jp.tsubakicraft.chat.IncomingMessage;
 import jp.tsubakicraft.chat.MessageType;
 import jp.tsubakicraft.chat.OutgoingMessage;
 
